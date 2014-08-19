@@ -1,0 +1,6 @@
+/var/www/html/bugzilla/lib/bin/shasum
+/var/www/html/bugzilla/lib/i386-linux-thread-multi/Digest/SHA.pm
+/var/www/html/bugzilla/lib/i386-linux-thread-multi/auto/Digest/SHA/SHA.bs
+/var/www/html/bugzilla/lib/i386-linux-thread-multi/auto/Digest/SHA/SHA.so
+/var/www/html/bugzilla/lib/man/man1/shasum.1
+/var/www/html/bugzilla/lib/man/man3/Digest::SHA.3pm

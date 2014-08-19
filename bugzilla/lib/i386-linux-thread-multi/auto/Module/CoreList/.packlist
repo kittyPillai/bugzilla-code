@@ -1,0 +1,8 @@
+/var/www/html/bugzilla/lib/Module/CoreList.pm
+/var/www/html/bugzilla/lib/Module/CoreList.pod
+/var/www/html/bugzilla/lib/Module/CoreList/TieHashDelta.pm
+/var/www/html/bugzilla/lib/Module/CoreList/Utils.pm
+/var/www/html/bugzilla/lib/bin/corelist
+/var/www/html/bugzilla/lib/man/man1/corelist.1
+/var/www/html/bugzilla/lib/man/man3/Module::CoreList.3pm
+/var/www/html/bugzilla/lib/man/man3/Module::CoreList::Utils.3pm

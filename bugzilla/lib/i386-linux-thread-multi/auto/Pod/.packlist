@@ -1,0 +1,17 @@
+/var/www/html/bugzilla/lib/Pod/Man.pm
+/var/www/html/bugzilla/lib/Pod/ParseLink.pm
+/var/www/html/bugzilla/lib/Pod/Text.pm
+/var/www/html/bugzilla/lib/Pod/Text/Color.pm
+/var/www/html/bugzilla/lib/Pod/Text/Overstrike.pm
+/var/www/html/bugzilla/lib/Pod/Text/Termcap.pm
+/var/www/html/bugzilla/lib/bin/pod2man
+/var/www/html/bugzilla/lib/bin/pod2text
+/var/www/html/bugzilla/lib/man/man1/perlpodstyle.1
+/var/www/html/bugzilla/lib/man/man1/pod2man.1
+/var/www/html/bugzilla/lib/man/man1/pod2text.1
+/var/www/html/bugzilla/lib/man/man3/Pod::Man.3pm
+/var/www/html/bugzilla/lib/man/man3/Pod::ParseLink.3pm
+/var/www/html/bugzilla/lib/man/man3/Pod::Text.3pm
+/var/www/html/bugzilla/lib/man/man3/Pod::Text::Color.3pm
+/var/www/html/bugzilla/lib/man/man3/Pod::Text::Overstrike.3pm
+/var/www/html/bugzilla/lib/man/man3/Pod::Text::Termcap.3pm

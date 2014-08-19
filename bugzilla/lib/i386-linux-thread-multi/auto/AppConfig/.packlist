@@ -1,0 +1,14 @@
+/var/www/html/bugzilla/lib/AppConfig.pm
+/var/www/html/bugzilla/lib/AppConfig/Args.pm
+/var/www/html/bugzilla/lib/AppConfig/CGI.pm
+/var/www/html/bugzilla/lib/AppConfig/File.pm
+/var/www/html/bugzilla/lib/AppConfig/Getopt.pm
+/var/www/html/bugzilla/lib/AppConfig/State.pm
+/var/www/html/bugzilla/lib/AppConfig/Sys.pm
+/var/www/html/bugzilla/lib/man/man3/AppConfig.3pm
+/var/www/html/bugzilla/lib/man/man3/AppConfig::Args.3pm
+/var/www/html/bugzilla/lib/man/man3/AppConfig::CGI.3pm
+/var/www/html/bugzilla/lib/man/man3/AppConfig::File.3pm
+/var/www/html/bugzilla/lib/man/man3/AppConfig::Getopt.3pm
+/var/www/html/bugzilla/lib/man/man3/AppConfig::State.3pm
+/var/www/html/bugzilla/lib/man/man3/AppConfig::Sys.3pm

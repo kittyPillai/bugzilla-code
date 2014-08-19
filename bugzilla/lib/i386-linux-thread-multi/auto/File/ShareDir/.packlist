@@ -1,0 +1,5 @@
+/var/www/html/bugzilla/lib/File/ShareDir.pm
+/var/www/html/bugzilla/lib/auto/share/dist/File-ShareDir/sample.txt
+/var/www/html/bugzilla/lib/auto/share/dist/File-ShareDir/subdir/sample.txt
+/var/www/html/bugzilla/lib/auto/share/module/File-ShareDir/test_file.txt
+/var/www/html/bugzilla/lib/man/man3/File::ShareDir.3pm

@@ -1,0 +1,16 @@
+/var/www/html/bugzilla/lib/IO/AtomicFile.pm
+/var/www/html/bugzilla/lib/IO/InnerFile.pm
+/var/www/html/bugzilla/lib/IO/Lines.pm
+/var/www/html/bugzilla/lib/IO/Scalar.pm
+/var/www/html/bugzilla/lib/IO/ScalarArray.pm
+/var/www/html/bugzilla/lib/IO/Stringy.pm
+/var/www/html/bugzilla/lib/IO/Wrap.pm
+/var/www/html/bugzilla/lib/IO/WrapTie.pm
+/var/www/html/bugzilla/lib/man/man3/IO::AtomicFile.3pm
+/var/www/html/bugzilla/lib/man/man3/IO::InnerFile.3pm
+/var/www/html/bugzilla/lib/man/man3/IO::Lines.3pm
+/var/www/html/bugzilla/lib/man/man3/IO::Scalar.3pm
+/var/www/html/bugzilla/lib/man/man3/IO::ScalarArray.3pm
+/var/www/html/bugzilla/lib/man/man3/IO::Stringy.3pm
+/var/www/html/bugzilla/lib/man/man3/IO::Wrap.3pm
+/var/www/html/bugzilla/lib/man/man3/IO::WrapTie.3pm

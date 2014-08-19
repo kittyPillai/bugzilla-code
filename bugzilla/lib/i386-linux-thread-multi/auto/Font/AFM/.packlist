@@ -1,0 +1,14 @@
+/var/www/html/bugzilla/lib/Font/AFM.pm
+/var/www/html/bugzilla/lib/Font/Metrics/Courier.pm
+/var/www/html/bugzilla/lib/Font/Metrics/CourierBold.pm
+/var/www/html/bugzilla/lib/Font/Metrics/CourierBoldOblique.pm
+/var/www/html/bugzilla/lib/Font/Metrics/CourierOblique.pm
+/var/www/html/bugzilla/lib/Font/Metrics/Helvetica.pm
+/var/www/html/bugzilla/lib/Font/Metrics/HelveticaBold.pm
+/var/www/html/bugzilla/lib/Font/Metrics/HelveticaBoldOblique.pm
+/var/www/html/bugzilla/lib/Font/Metrics/HelveticaOblique.pm
+/var/www/html/bugzilla/lib/Font/Metrics/TimesBold.pm
+/var/www/html/bugzilla/lib/Font/Metrics/TimesBoldItalic.pm
+/var/www/html/bugzilla/lib/Font/Metrics/TimesItalic.pm
+/var/www/html/bugzilla/lib/Font/Metrics/TimesRoman.pm
+/var/www/html/bugzilla/lib/man/man3/Font::AFM.3pm

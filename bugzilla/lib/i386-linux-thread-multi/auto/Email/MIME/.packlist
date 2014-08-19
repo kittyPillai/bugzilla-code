@@ -1,0 +1,10 @@
+/var/www/html/bugzilla/lib/Email/MIME.pm
+/var/www/html/bugzilla/lib/Email/MIME/Creator.pm
+/var/www/html/bugzilla/lib/Email/MIME/Encode.pm
+/var/www/html/bugzilla/lib/Email/MIME/Header.pm
+/var/www/html/bugzilla/lib/Email/MIME/Modifier.pm
+/var/www/html/bugzilla/lib/man/man3/Email::MIME.3pm
+/var/www/html/bugzilla/lib/man/man3/Email::MIME::Creator.3pm
+/var/www/html/bugzilla/lib/man/man3/Email::MIME::Encode.3pm
+/var/www/html/bugzilla/lib/man/man3/Email::MIME::Header.3pm
+/var/www/html/bugzilla/lib/man/man3/Email::MIME::Modifier.3pm

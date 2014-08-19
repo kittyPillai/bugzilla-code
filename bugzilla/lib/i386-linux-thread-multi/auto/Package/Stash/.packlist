@@ -1,0 +1,8 @@
+/var/www/html/bugzilla/lib/Package/Stash.pm
+/var/www/html/bugzilla/lib/Package/Stash/Conflicts.pm
+/var/www/html/bugzilla/lib/Package/Stash/PP.pm
+/var/www/html/bugzilla/lib/bin/package-stash-conflicts
+/var/www/html/bugzilla/lib/man/man1/package-stash-conflicts.1
+/var/www/html/bugzilla/lib/man/man3/Package::Stash.3pm
+/var/www/html/bugzilla/lib/man/man3/Package::Stash::Conflicts.3pm
+/var/www/html/bugzilla/lib/man/man3/Package::Stash::PP.3pm

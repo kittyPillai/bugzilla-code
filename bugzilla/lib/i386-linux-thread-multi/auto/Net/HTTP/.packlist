@@ -1,0 +1,7 @@
+/var/www/html/bugzilla/lib/Net/HTTP.pm
+/var/www/html/bugzilla/lib/Net/HTTP/Methods.pm
+/var/www/html/bugzilla/lib/Net/HTTP/NB.pm
+/var/www/html/bugzilla/lib/Net/HTTPS.pm
+/var/www/html/bugzilla/lib/man/man3/Net::HTTP.3pm
+/var/www/html/bugzilla/lib/man/man3/Net::HTTP::NB.3pm
+/var/www/html/bugzilla/lib/man/man3/Net::HTTPS.3pm

@@ -1,0 +1,10 @@
+/var/www/html/bugzilla/lib/JSON.pm
+/var/www/html/bugzilla/lib/JSON/backportPP.pm
+/var/www/html/bugzilla/lib/JSON/backportPP/Boolean.pm
+/var/www/html/bugzilla/lib/JSON/backportPP/Compat5005.pm
+/var/www/html/bugzilla/lib/JSON/backportPP/Compat5006.pm
+/var/www/html/bugzilla/lib/man/man3/JSON.3pm
+/var/www/html/bugzilla/lib/man/man3/JSON::backportPP.3pm
+/var/www/html/bugzilla/lib/man/man3/JSON::backportPP::Boolean.3pm
+/var/www/html/bugzilla/lib/man/man3/JSON::backportPP::Compat5005.3pm
+/var/www/html/bugzilla/lib/man/man3/JSON::backportPP::Compat5006.3pm

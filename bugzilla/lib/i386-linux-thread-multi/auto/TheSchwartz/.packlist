@@ -1,0 +1,12 @@
+/var/www/html/bugzilla/lib/TheSchwartz.pm
+/var/www/html/bugzilla/lib/TheSchwartz/Error.pm
+/var/www/html/bugzilla/lib/TheSchwartz/ExitStatus.pm
+/var/www/html/bugzilla/lib/TheSchwartz/FuncMap.pm
+/var/www/html/bugzilla/lib/TheSchwartz/Job.pm
+/var/www/html/bugzilla/lib/TheSchwartz/JobHandle.pm
+/var/www/html/bugzilla/lib/TheSchwartz/Worker.pm
+/var/www/html/bugzilla/lib/bin/schwartzmon
+/var/www/html/bugzilla/lib/man/man1/schwartzmon.1
+/var/www/html/bugzilla/lib/man/man3/TheSchwartz.3pm
+/var/www/html/bugzilla/lib/man/man3/TheSchwartz::Job.3pm
+/var/www/html/bugzilla/lib/man/man3/TheSchwartz::Worker.3pm

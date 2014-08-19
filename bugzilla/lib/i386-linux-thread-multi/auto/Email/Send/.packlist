@@ -1,0 +1,12 @@
+/var/www/html/bugzilla/lib/Email/Send.pm
+/var/www/html/bugzilla/lib/Email/Send/NNTP.pm
+/var/www/html/bugzilla/lib/Email/Send/Qmail.pm
+/var/www/html/bugzilla/lib/Email/Send/SMTP.pm
+/var/www/html/bugzilla/lib/Email/Send/Sendmail.pm
+/var/www/html/bugzilla/lib/Email/Send/Test.pm
+/var/www/html/bugzilla/lib/man/man3/Email::Send.3pm
+/var/www/html/bugzilla/lib/man/man3/Email::Send::NNTP.3pm
+/var/www/html/bugzilla/lib/man/man3/Email::Send::Qmail.3pm
+/var/www/html/bugzilla/lib/man/man3/Email::Send::SMTP.3pm
+/var/www/html/bugzilla/lib/man/man3/Email::Send::Sendmail.3pm
+/var/www/html/bugzilla/lib/man/man3/Email::Send::Test.3pm

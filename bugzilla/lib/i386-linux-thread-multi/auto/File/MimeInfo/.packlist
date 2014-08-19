@@ -1,0 +1,10 @@
+/var/www/html/bugzilla/lib/File/MimeInfo.pm
+/var/www/html/bugzilla/lib/File/MimeInfo/Applications.pm
+/var/www/html/bugzilla/lib/File/MimeInfo/Cookbook.pod
+/var/www/html/bugzilla/lib/File/MimeInfo/Magic.pm
+/var/www/html/bugzilla/lib/File/MimeInfo/Rox.pm
+/var/www/html/bugzilla/lib/man/man3/File::MimeInfo.3pm
+/var/www/html/bugzilla/lib/man/man3/File::MimeInfo::Applications.3pm
+/var/www/html/bugzilla/lib/man/man3/File::MimeInfo::Cookbook.3pm
+/var/www/html/bugzilla/lib/man/man3/File::MimeInfo::Magic.3pm
+/var/www/html/bugzilla/lib/man/man3/File::MimeInfo::Rox.3pm

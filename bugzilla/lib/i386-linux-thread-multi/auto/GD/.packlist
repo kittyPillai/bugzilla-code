@@ -1,0 +1,17 @@
+/var/www/html/bugzilla/lib/bin/bdf2gdfont.pl
+/var/www/html/bugzilla/lib/i386-linux-thread-multi/GD.pm
+/var/www/html/bugzilla/lib/i386-linux-thread-multi/GD/Group.pm
+/var/www/html/bugzilla/lib/i386-linux-thread-multi/GD/Image.pm
+/var/www/html/bugzilla/lib/i386-linux-thread-multi/GD/Polygon.pm
+/var/www/html/bugzilla/lib/i386-linux-thread-multi/GD/Polyline.pm
+/var/www/html/bugzilla/lib/i386-linux-thread-multi/GD/Simple.pm
+/var/www/html/bugzilla/lib/i386-linux-thread-multi/auto/GD/GD.bs
+/var/www/html/bugzilla/lib/i386-linux-thread-multi/auto/GD/GD.so
+/var/www/html/bugzilla/lib/i386-linux-thread-multi/auto/GD/autosplit.ix
+/var/www/html/bugzilla/lib/i386-linux-thread-multi/qd.pl
+/var/www/html/bugzilla/lib/man/man1/bdf2gdfont.pl.1
+/var/www/html/bugzilla/lib/man/man3/GD.3pm
+/var/www/html/bugzilla/lib/man/man3/GD::Image.3pm
+/var/www/html/bugzilla/lib/man/man3/GD::Polygon.3pm
+/var/www/html/bugzilla/lib/man/man3/GD::Polyline.3pm
+/var/www/html/bugzilla/lib/man/man3/GD::Simple.3pm

@@ -1,0 +1,10 @@
+/var/www/html/bugzilla/lib/i386-linux-thread-multi/GSSAPI.pm
+/var/www/html/bugzilla/lib/i386-linux-thread-multi/GSSAPI/OID.pm
+/var/www/html/bugzilla/lib/i386-linux-thread-multi/GSSAPI/OID/Set.pm
+/var/www/html/bugzilla/lib/i386-linux-thread-multi/GSSAPI/Status.pm
+/var/www/html/bugzilla/lib/i386-linux-thread-multi/auto/GSSAPI/GSSAPI.bs
+/var/www/html/bugzilla/lib/i386-linux-thread-multi/auto/GSSAPI/GSSAPI.so
+/var/www/html/bugzilla/lib/man/man3/GSSAPI.3pm
+/var/www/html/bugzilla/lib/man/man3/GSSAPI::OID.3pm
+/var/www/html/bugzilla/lib/man/man3/GSSAPI::OID::Set.3pm
+/var/www/html/bugzilla/lib/man/man3/GSSAPI::Status.3pm
